@@ -9,3 +9,7 @@ DISCLAIMER:
 I'm not responsable for what you will use the autoclicker for.
 I don't recommend using it on servers as it is bannable/game ruiner.
 Use it only for good purposes!
+
+P.S.: Minecraft Clicker is not affiliated with Mojang
+
+Download: https://damus666.itch.io/minecraft-clicker
