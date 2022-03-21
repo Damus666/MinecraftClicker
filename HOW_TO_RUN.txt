@@ -1,0 +1,5 @@
+To run the game double click "MinecraftClicker" (or 'MinecraftClicker.application' if you have extensions showing activated)
+
+if it does not work double click "setup.exe"
+
+if still doesn't work tell me in comments
